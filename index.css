@@ -1,0 +1,37 @@
+
+body {
+    background-color: #f1f1f0;
+}
+
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+    
+}
+
+.title {
+    font-size: 20px;
+    color: #f1fec8;
+    background-color: #23212C;
+    text-align: center;
+    margin: 50px;
+    padding: 30px;
+    width: 510px;
+    height: 0 auto;
+}
+
+.link {
+    background-color: #f1fec8;
+    text-align: center;
+    font-size: 15px;
+    padding: 30px;
+    margin: 20px;
+    width: 80px;
+    outline: 5px solid #23212C;
+}
+
+
+a {
+    color: #23212C;
+    font-weight: bold;
+}
