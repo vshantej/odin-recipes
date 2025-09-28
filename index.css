@@ -6,7 +6,6 @@ body {
 .body {
     font-family: Arial, Helvetica, sans-serif;
     display: inline-block;
-    
 }
 
 .title {
@@ -14,7 +13,7 @@ body {
     color: #f1fec8;
     background-color: #23212C;
     text-align: center;
-    margin: 50px;
+    margin: 50px 700px;
     padding: 30px;
     width: 510px;
     height: 0 auto;
@@ -25,7 +24,6 @@ body {
     text-align: center;
     font-size: 15px;
     padding: 30px;
-    margin: 20px;
     width: 80px;
     outline: 5px solid #23212C;
 }
@@ -34,4 +32,17 @@ body {
 a {
     color: #23212C;
     font-weight: bold;
+}
+
+#egg {
+    margin: 50px 660px;
+}
+
+#cheese {
+    margin: 50px 890px;
+    padding : 40px;
+}
+
+#banana {
+    margin: 50px 1100px;
 }
