@@ -1,6 +1,5 @@
-
 body {
-    background-color: #3e3f4c;
+    background-color: #f5f5f5;
 }
 
 .body {
@@ -9,42 +8,69 @@ body {
 }
 
 .title {
-    font-size: 20px;
-    color: #be98aa;
-    background-color: #3e3f4c;
+     outline: 2px solid #4e635e;
+    font-size: 25px;
+    font-weight: bold;
+    color: #e2e0c8;
+    background-color: #818c78;
     text-align: center;
-    margin: 50px 600px;
-    padding: 30px;
-    width: 900px;
-    height: 0 auto;
-    outline: 2px solid #f5f5f5
+    padding: 15px;
+    height: 120px;
+    width: 1500px;
+    margin: 50px 200px;
 }
 
 .link {
-    background-color: #be98aa;
+    background-color: #4e635e;
     text-align: center;
-    font-size: 15px;
-    padding: 40px;
-    width: 80px;
-    outline: 2px solid #f5f5f5;
+    font-size: 30px;
+    outline: 2px solid #a6b49e;
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
 }
 
-
 a {
-    color: #3e3f4c;
+    color: #e2e2e2;
     font-weight: bold;
 }
 
+
+
 #egg {
-    margin: 40px 660px;
+    margin-left: 160px;
 }
 
 #cheese {
-    margin: 40px 840px;
-    padding : 48px;
-    width: 70px;
+    margin-top: -90px;
 }
 
 #banana {
-    margin: 40px 1050px;
+    margin-left: 1350px;
+    margin-top: -95px;
+}
+
+
+
+img {
+    width: 320px;
+    height: 320px;
+}
+
+.eggp {
+    outline: 2px solid #a6b49e;
+    margin-left: 210px;
+    margin-top: 45px;
+}
+
+.cakep {
+    outline: 2px solid #a6b49e;
+    margin-left: 290px;
+    margin-top: -950px;
+}
+
+.breadp {
+    outline: 2px solid #a6b49e;
+    margin-left: 1409px;
+    margin-top: -400px;
 }
