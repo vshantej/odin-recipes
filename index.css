@@ -37,40 +37,56 @@ a {
 
 
 
-#egg {
-    margin-left: 160px;
-}
-
-#cheese {
-    margin-top: -90px;
-}
-
-#banana {
-    margin-left: 1350px;
-    margin-top: -95px;
-}
-
-
 
 img {
     width: 320px;
     height: 320px;
 }
 
+
+
 .eggp {
     outline: 2px solid #a6b49e;
-    margin-left: 210px;
-    margin-top: 45px;
+    margin-left: 730px;
 }
+
+.one {
+    margin-left: -550px;
+}
+
+#egg {
+    margin-left: 710px;
+}
+
+
+
 
 .cakep {
     outline: 2px solid #a6b49e;
-    margin-left: 290px;
-    margin-top: -950px;
+    margin-left: 730px;
+} 
+
+.two {
+    margin-top: -415px;
 }
+
+#cheese {
+    margin-left: 710px;
+}
+
+
+
 
 .breadp {
     outline: 2px solid #a6b49e;
-    margin-left: 1409px;
-    margin-top: -400px;
+    margin-left: 730px; 
+}
+
+.three {
+    margin-top: -416px;
+    margin-left: 630px;
+}
+
+#banana {
+    margin-left: 710px;
 }
