@@ -1,22 +1,21 @@
 body {
     background-color: #f5f5f5;
     font-family: Arial, Helvetica, sans-serif;
-    display: inline-block;
 }
 
-h1 {
-   font-size: 50px;
+
+.card {
+   font-size: 25px;
    font-weight: bold;
    text-align: center;
    outline: 2px solid #4e635e;
    background-color: #818c78;
    color: #e2e0c8;
-   height: 120px;
-   width: 0 auto;
-   margin: 50px;
-   margin-right: 290px;
-   padding-top: 55px;
+   padding: 25px;
+   margin-right: 250px;
+   margin-left: 150px;
 }
+
 
 h2 {
     font-size: 30px;
@@ -35,7 +34,8 @@ h2 {
 img {
     width: 350px;
     height: 350px;
-    margin-left: 950px;
+    margin-left: 700px;
+    padding: 20px;
 }
 
 .para {
@@ -50,23 +50,23 @@ img {
 
 .one {
     margin-top: 50px;
-    margin-left: -250px;
+    margin-left: -1250px;
 }
 
 .two {
-    margin-right: -950px;
-    margin-top: -330px;
+    margin-right: 130px;
+    margin-top: -335px;
 }
 
 .three {
-    margin-right: -2190px;
+    margin-right: -1005px;
     margin-top: -330px;
 }
 
 .back{
     background-color: #818c78;
     margin-top: 120px;
-    margin-left: 950px;
+    margin-left: 830px;
     padding: 9px; 
 }
 
