@@ -5,41 +5,69 @@ body {
 
 
 .card {
-
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    outline: 2px solid #4e635e;
+    background-color: #818c78;
+    color: #e2e0c8;
+    padding: 25px;
+    margin-right: 250px;
+    margin-left: 150px;
 }
 
 h2 {
-
+    font-size: 30px;
 }
 
 .title {
-
+    outline: 2px solid #4e635e;
+    color: #e2e0c8;
+    background-color: #818c78;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 img {
-
+    width: 350px;
+    height: 350px;
+    margin-left: 700px;
+    padding: 20px;
 }
 
 .para {
-
+    outline: 2px solid #a6b49e;
+    color: #e2e2e2;
+    background-color: #4e635e;
+    width: 500px;
+    margin: 0 auto;
+    padding: 10px;
 }
 
 .one {
-
+    margin-top: 50px;
+    margin-left: -1250px;
 }
 
 .two{
-
+    margin-right: 130px;
+    margin-top: -335px;
 }
 
 .three {
-
+    margin-right: -1005px;
+    margin-top: -330px;
 }
 
 .back {
-
+    background-color: #818c78;
+    margin-top: 120px;
+    margin-left: 830px;
+    padding: 9px; 
 }
 
 a {
-    
-}
+  color: #e2e0c8
+}   
